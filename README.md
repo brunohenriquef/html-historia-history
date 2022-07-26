@@ -20,4 +20,4 @@
 
 ### Using this project
 
-* To use this project, just open `index.html`(documents/pt-BR or en/index.html) file on your web browser or HTML reader.
+* To use this project, just open `index.html` (documents/pt-BR or en/index.html) file on your web browser or HTML reader.
